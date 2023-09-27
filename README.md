@@ -43,7 +43,7 @@ During each iteration, the P-values held true with the correlation heat map. Thi
 In conclusion, in order for the east coast residential builder to be successful on the east coast, specifically King County, they must consider:
 
 * **Creating a custom design using high quality materials, high quality finish work and luxurious options**
-	- King County has a ranking system between 1 to 12 that represents the construction quality of improvements. They are generally defined as:
+	- King County has a ranking system between 1 to 13 that represents the construction quality of improvements. They are generally defined as:
 
 		+ **11** Custom design and higher quality finish work with added amenities of solid woods, bathroom fixtures and more luxurious options.
 
